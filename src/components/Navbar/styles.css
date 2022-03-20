@@ -1,0 +1,39 @@
+:root {
+  --bg-colour: #333745;
+  --highlight-color: #e63462;
+  --secondary-color: #fe5f55;
+  --text-color: #eef5db;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-container {
+  background-color: var(--bg-colour);
+  height: 50px;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.nav-links li {
+  display: inline-block;
+  padding: 20px 40px 20px 0px;
+}
+
+li {
+  color: #fae106;
+}
+li :hover {
+  color: #b90944;
+}
+
+.logo {
+  padding-left: 20px;
+  color: white;
+}

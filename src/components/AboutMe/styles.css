@@ -1,0 +1,39 @@
+.about-me-section {
+  background-color: rgb(255, 254, 250);
+  height: 100vh;
+}
+
+.about-me-header {
+  text-align: center;
+}
+
+.header {
+  color: #462626;
+  font-size: 36px;
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  border-bottom: 4px solid #a30b3d;
+}
+
+.textHolder {
+  font-size: 24px;
+  color: #462626;
+  width: 500px;
+  text-align: justify;
+}
+
+.about-me-items {
+  padding-top: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-me-items-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 1200px;
+}

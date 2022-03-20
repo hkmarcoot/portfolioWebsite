@@ -1,0 +1,39 @@
+.achievementSection {
+  background-color: rgb(110, 219, 252);
+  height: 100vh;
+}
+
+.achieveHeader {
+  text-align: center;
+}
+
+.header {
+  color: #462626;
+  font-size: 36px;
+  display: inline-block;
+  width: 300px;
+  text-align: center;
+  border-bottom: 4px solid #a30b3d;
+}
+
+.textHolder {
+  font-size: 24px;
+  color: #462626;
+  width: 300px;
+  text-align: left;
+}
+
+.achieveItems {
+  padding-top: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.achieveItemsContainer {
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+  width: 1000px;
+}

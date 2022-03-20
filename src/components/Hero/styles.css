@@ -1,0 +1,102 @@
+.hero-h1 {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.hero-h2 {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.hero-box {
+  background-color: rgb(246, 242, 34);
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+}
+
+.hero-box-container {
+  display: flex;
+  /* justify-content: space-around; */
+  flex-direction: column;
+  align-items: center;
+  /* width: 1200px; */
+}
+
+.profilephoto {
+  border-radius: 25px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.hero-button {
+  display: flex;
+  /* justify-content: space-around; */
+  /* align-items: center; */
+  flex-direction: row;
+  margin: 20px;
+}
+
+/* .hero-button-individual {
+  margin: 10px;
+  
+} */
+
+/* <!-- HTML !-->
+<button class="button-53" role="button">Button 53</button> */
+
+/* CSS */
+.hero-button-individual {
+  margin: 10px;
+  background-color: #3dd1e7;
+  border: 0 solid #e5e7eb;
+  box-sizing: border-box;
+  color: #000000;
+  display: flex;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1rem;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 1.75rem;
+  padding: 0.75rem 1.65rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none #000000 solid;
+  text-decoration-thickness: auto;
+  width: 100%;
+  max-width: 460px;
+  position: relative;
+  cursor: pointer;
+  transform: rotate(-2deg);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.hero-button-individual:focus {
+  outline: 0;
+}
+
+.hero-button-individual:after {
+  content: "";
+  position: absolute;
+  border: 1px solid #000000;
+  bottom: 4px;
+  left: 4px;
+  width: calc(100% - 1px);
+  height: calc(100% - 1px);
+}
+
+.hero-button-individual:hover:after {
+  bottom: 2px;
+  left: 2px;
+}
+
+@media (min-width: 768px) {
+  .hero-button-individual {
+    padding: 0.75rem 4rem;
+    font-size: 1.25rem;
+  }
+}

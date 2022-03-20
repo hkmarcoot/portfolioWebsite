@@ -1,0 +1,55 @@
+.demoWebsiteSection {
+  background-color: rgb(252, 112, 18);
+  height: 100vh;
+}
+
+.demoHeader {
+  text-align: center;
+}
+
+.header {
+  color: #462626;
+  font-size: 36px;
+  display: inline-block;
+  width: 300px;
+  text-align: center;
+  border-bottom: 4px solid #a30b3d;
+}
+
+.textHolder {
+  font-size: 24px;
+  color: #462626;
+  width: 400px;
+  text-align: justify;
+}
+
+.demoItems {
+  padding-top: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.demoItemsContainer {
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+  width: 1000px;
+}
+
+.linkWorthyPic {
+  border-radius: 25px;
+}
+
+.linkWorthyPic:hover {
+  opacity: 0.8;
+}
+
+.xpeeriencePic {
+  border-radius: 25px;
+}
+
+.xpeeriencePic:hover {
+  opacity: 0.8;
+}
