@@ -6,7 +6,7 @@ import DemoWebsite from "../DemoWebsite";
 import SmallProject from "../SmallProject";
 import Achievement from "../Achievement";
 import Connect from "../Connect";
-import Footer from "../Footer";
+//import Footer from "../Footer";
 
 function App() {
   return (
