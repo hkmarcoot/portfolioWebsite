@@ -20,7 +20,7 @@
   font-size: 24px;
   color: #462626;
   width: 300px;
-  text-align: left;
+  text-align: justify;
 }
 
 .achieveItems {
@@ -36,4 +36,16 @@
   justify-content: space-around;
   /* align-items: center; */
   width: 1000px;
+}
+
+.scratchPic,
+.appinventorPic,
+.daysofcodePic {
+  border-radius: 25px;
+}
+
+.scratchPic:hover,
+.appinventorPic:hover,
+.daysofcodePic:hover {
+  opacity: 0.8;
 }

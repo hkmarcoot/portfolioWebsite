@@ -43,3 +43,9 @@
 .rockpaperscissors {
   border-radius: 25px;
 }
+
+.tictactoe:hover,
+.movielist:hover,
+.rockpaperscissors:hover {
+  opacity: 0.8;
+}

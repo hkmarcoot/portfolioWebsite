@@ -18,7 +18,7 @@ function App() {
       <SmallProject />
       <Achievement />
       <Connect />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

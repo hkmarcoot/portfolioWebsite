@@ -18,7 +18,7 @@ function Navbar() {
           </li>
           <li>
             <div onClick={() => window.location.replace("/#contact-section")}>
-              Contact
+              Connect
             </div>
           </li>
         </ul>

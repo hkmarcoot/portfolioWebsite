@@ -10,25 +10,49 @@ function Connect() {
       <div className={styles.connectItems}>
         <div className={styles.connectItemsContainer}>
           <div className={styles.connectItem}>
-            <i
-              className="uil uil-linkedin"
-              style={{ color: "red", fontSize: 50 }}
-            ></i>
-            <div>LinkedIn for my full working & learning journey.</div>
+            <a
+              href="https://www.linkedin.com/in/marco-tsang112/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <i
+                className="uil uil-linkedin"
+                style={{ color: "white", fontSize: 50 }}
+              ></i>
+            </a>
+            <div className={styles.describe}>
+              LinkedIn for my full working & learning journey.
+            </div>
           </div>
           <div className={styles.connectItem}>
-            <i
-              className="uil uil-twitter"
-              style={{ color: "red", fontSize: 50 }}
-            ></i>
-            <div>Twitter for #100DaysOfCode daily update.</div>
+            <a
+              href="https://twitter.com/marcotsang112"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <i
+                className="uil uil-twitter"
+                style={{ color: "white", fontSize: 50 }}
+              ></i>
+            </a>
+            <div className={styles.describe}>
+              Twitter for #100DaysOfCode daily update.
+            </div>
           </div>
-          <div className="contact-item">
-            <i
-              className="uil uil-github"
-              style={{ color: "red", fontSize: 50 }}
-            ></i>
-            <div>Github for #100DaysOfCode coding progress.</div>
+          <div className={styles.connectItem}>
+            <a
+              href="https://github.com/hkmarcoot/100-days-of-code"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <i
+                className="uil uil-github"
+                style={{ color: "white", fontSize: 50 }}
+              ></i>
+            </a>
+            <div className={styles.describe}>
+              Github for #100DaysOfCode coding progress.
+            </div>
           </div>
         </div>
       </div>
