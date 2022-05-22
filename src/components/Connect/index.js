@@ -56,7 +56,7 @@ function Connect() {
               ></i>
 
               <div className={styles.describe}>
-                Github for 1st #100DaysOfCode coding progress.
+                GitHub for 1st #100DaysOfCode coding progress.
               </div>
             </a>
           </div>
