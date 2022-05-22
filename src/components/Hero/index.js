@@ -11,7 +11,7 @@ function Hero() {
         </div>
         <div className="hero-overlay">
           <h1 className="hero-h1">I am a Full Stack Developer</h1>
-          <h2 className="hero-h2">Trained by The School Of Code</h2>
+          <h2 className="hero-h2">Trained in The School Of Code Bootcamp</h2>
         </div>
         <div className="hero-button">
           <button

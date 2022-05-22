@@ -15,15 +15,18 @@ function AboutMe() {
             <p className="textHolder">
               Hi everyone! My name is Marco and I am aiming to be a Junior Web
               Developer that creates stunning landing pages and e-commerce
-              websites.
+              websites. Right now I am enhancing my e-commerce skills by
+              studying the Google Digital Marketing & E-commerce Professional
+              Certificate in Coursera and learning Shopify Development in Coding
+              With Jan.
             </p>
             <p className="textHolder">
-              Building websites for clients in a company and for my own self is
-              a hybrid working lifestyle that I long-desired. Apart from the
-              business experience that I can earn by running e-commerce websites
-              by myself, the reason behind is that I would like to learn
-              marketing & web design skills as well as working with other kinds
-              of people, like marketer, web designer and project manager.
+              Building websites in a company and for my own self is a hybrid
+              working lifestyle that I long-desired. Apart from the business
+              experience that I can earn by running e-commerce websites by
+              myself, the reason behind is that I would like to learn marketing
+              & web design skills as well as working with other kinds of people,
+              like marketer, web designer and project manager.
             </p>
             <p className="textHolder">
               On right side is my wonderful final project team! We have pair

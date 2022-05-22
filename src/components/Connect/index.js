@@ -36,7 +36,7 @@ function Connect() {
               ></i>
             </a>
             <div className={styles.describe}>
-              Twitter for #100DaysOfCode daily update.
+              Twitter for 2nd #100DaysOfCode daily update.
             </div>
           </div>
           <div className={styles.connectItem}>
@@ -51,7 +51,7 @@ function Connect() {
               ></i>
             </a>
             <div className={styles.describe}>
-              Github for #100DaysOfCode coding progress.
+              Github for 1st #100DaysOfCode coding progress.
             </div>
           </div>
         </div>
