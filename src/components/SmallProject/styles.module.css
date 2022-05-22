@@ -1,6 +1,14 @@
 .spSection {
-  background-color: rgb(104, 252, 18);
+  padding-top: 5px;
+  background-color: rgb(255, 255, 255);
   height: 100vh;
+}
+
+.box {
+  margin: 50px;
+  padding: 20px;
+  background-color: rgb(182, 242, 148);
+  border-radius: 50px;
 }
 
 .spHeader {

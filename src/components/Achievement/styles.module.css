@@ -1,6 +1,14 @@
 .achievementSection {
-  background-color: rgb(110, 219, 252);
+  padding-top: 5px;
+  background-color: rgb(255, 255, 255);
   height: 100vh;
+}
+
+.box {
+  margin: 50px;
+  padding: 20px;
+  background-color: rgb(177, 231, 248);
+  border-radius: 50px;
 }
 
 .achieveHeader {

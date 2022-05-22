@@ -16,9 +16,29 @@ function AboutMe() {
               Hi everyone! My name is Marco and I am aiming to be a Junior Web
               Developer that creates stunning landing pages and e-commerce
               websites. Right now I am enhancing my e-commerce skills by
-              studying the Google Digital Marketing & E-commerce Professional
-              Certificate in Coursera and learning Shopify Development in Coding
-              With Jan.
+              studying the{" "}
+              <a
+                className="btn"
+                href="https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce?"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <span className="bold">
+                  Google Digital Marketing & E-commerce Professional Certificate
+                  in Coursera
+                </span>
+              </a>{" "}
+              and learning{" "}
+              <a
+                className="btn"
+                href="https://codingwithjan.com"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <span className="bold">
+                  Shopify Development in Coding With Jan.
+                </span>
+              </a>
             </p>
             <p className="textHolder">
               Building websites in a company and for my own self is a hybrid

@@ -1,6 +1,14 @@
 .demoWebsiteSection {
-  background-color: rgb(252, 112, 18);
+  padding-top: 5px;
+  background-color: rgb(255, 255, 255);
   height: 100vh;
+}
+
+.box {
+  margin: 50px;
+  padding: 20px;
+  background-color: rgb(244, 203, 115);
+  border-radius: 50px;
 }
 
 .demoHeader {

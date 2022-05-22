@@ -11,6 +11,7 @@ function Connect() {
         <div className={styles.connectItemsContainer}>
           <div className={styles.connectItem}>
             <a
+              className="btn"
               href="https://www.linkedin.com/in/marco-tsang112/"
               target="_blank"
               rel="noreferrer"
@@ -19,13 +20,15 @@ function Connect() {
                 className="uil uil-linkedin"
                 style={{ color: "white", fontSize: 50 }}
               ></i>
+
+              <div className={styles.describe}>
+                LinkedIn for my full working & learning journey.
+              </div>
             </a>
-            <div className={styles.describe}>
-              LinkedIn for my full working & learning journey.
-            </div>
           </div>
           <div className={styles.connectItem}>
             <a
+              className="btn"
               href="https://twitter.com/marcotsang112"
               target="_blank"
               rel="noreferrer"
@@ -34,13 +37,15 @@ function Connect() {
                 className="uil uil-twitter"
                 style={{ color: "white", fontSize: 50 }}
               ></i>
+
+              <div className={styles.describe}>
+                Twitter for 2nd #100DaysOfCode daily update.
+              </div>
             </a>
-            <div className={styles.describe}>
-              Twitter for 2nd #100DaysOfCode daily update.
-            </div>
           </div>
           <div className={styles.connectItem}>
             <a
+              className="btn"
               href="https://github.com/hkmarcoot/100-days-of-code"
               target="_blank"
               rel="noreferrer"
@@ -49,10 +54,11 @@ function Connect() {
                 className="uil uil-github"
                 style={{ color: "white", fontSize: 50 }}
               ></i>
+
+              <div className={styles.describe}>
+                Github for 1st #100DaysOfCode coding progress.
+              </div>
             </a>
-            <div className={styles.describe}>
-              Github for 1st #100DaysOfCode coding progress.
-            </div>
           </div>
         </div>
       </div>

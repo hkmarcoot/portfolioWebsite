@@ -27,7 +27,7 @@
 }
 
 li {
-  color: #fae106;
+  color: #49f4c3;
 }
 li :hover {
   color: #b90944;
@@ -35,5 +35,5 @@ li :hover {
 
 .logo {
   padding-left: 20px;
-  color: white;
+  color: #49f4c3;
 }
