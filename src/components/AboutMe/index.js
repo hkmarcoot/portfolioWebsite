@@ -41,7 +41,7 @@ function AboutMe() {
               </a>
             </p>
             <p className="textHolder">
-              Building websites in a company and for my own self is a hybrid
+              Building websites in a company and for my own hobbies is a hybrid
               working lifestyle that I long-desired. Apart from the business
               experience that I can earn by running e-commerce websites by
               myself, the reason behind is that I would like to learn marketing
