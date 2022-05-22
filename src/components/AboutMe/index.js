@@ -46,7 +46,7 @@ function AboutMe() {
               experience that I can earn by running e-commerce websites by
               myself, the reason behind is that I would like to learn marketing
               & web design skills as well as working with other kinds of people,
-              like marketer, web designer and project manager.
+              like marketer, web designer and project manager in workplace.
             </p>
             <p className="textHolder">
               On right side is my wonderful final project team! We have pair
