@@ -63,7 +63,7 @@ function AboutMe() {
         <div className="about-me-2-items-container">
           <div className="about-me-2-items-container2">
             <p>
-              <p>My Coding Skill Set</p>
+              <p className="skill-set-title">My Coding Skill Set</p>
               <p>Frontend Skills: JavaScript, HTML, CSS, React</p>
               <p>Backend Skills: Node, Express, MongoDB, PostgreSQL</p>Testing
               Skills: JEST <p>Design Tools: Figma, Photoshop, Illustrator </p>
