@@ -13,10 +13,10 @@ function AboutMe() {
           <div className="left-item">
             <h3>Aiming to be Web Developer</h3>
             <p className="textHolder">
-              Hi everyone! My name is Marco and I am aiming to be a Junior Web
-              Developer that creates stunning landing pages and e-commerce
-              websites. Right now I am enhancing my e-commerce skills by
-              studying the{" "}
+              Hi everyone! My name is Marco and I am aiming to be a Full Stack /
+              Frontend Web Developer that creates stunning landing pages and
+              e-commerce websites. Right now I am enhancing my e-commerce skills
+              by studying the{" "}
               <a
                 className="btn"
                 href="https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce?"
