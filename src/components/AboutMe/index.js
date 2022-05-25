@@ -14,9 +14,8 @@ function AboutMe() {
             <h3>Aiming to be Web Developer</h3>
             <p className="textHolder">
               Hi everyone! My name is Marco and I am aiming to be a Full Stack /
-              Frontend Web Developer that creates stunning landing pages and
-              e-commerce websites. Right now I am enhancing my e-commerce skills
-              by studying the{" "}
+              Frontend Web Developer. Right now I am enhancing my e-commerce
+              skills by studying the{" "}
               <a
                 className="btn"
                 href="https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce?"
@@ -41,12 +40,11 @@ function AboutMe() {
               </a>
             </p>
             <p className="textHolder">
-              Building websites in a company and for my own hobbies is a hybrid
-              working lifestyle that I long-desired. Apart from the business
-              experience that I can earn by running e-commerce websites by
-              myself, the reason behind is that I would like to learn marketing
-              & web design skills as well as working with other kinds of people,
-              like marketer, web designer and project manager in workplace.
+              By mastering the web development skills I would like to build
+              frontend landing pages and e-commerce websites in a company. In
+              the last project we used MERN Stack and I am confident to handle
+              backend duties. I am planning to use Shopify to build myself an
+              online store selling STEM gadget as my next challenge.
             </p>
             <p className="textHolder">
               On right side is my wonderful final project team! We have pair
