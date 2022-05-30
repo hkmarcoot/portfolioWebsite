@@ -14,8 +14,16 @@ function AboutMe() {
             <h3>Aiming to be Web Developer</h3>
             <p className="textHolder">
               Hi everyone! My name is Marco and I am aiming to be a Full Stack /
-              Frontend Web Developer. Right now I am enhancing my e-commerce
-              skills by studying the{" "}
+              Frontend Web Developer. Right now I am building{" "}
+              <a
+                className="btn"
+                href="https://www.cleverprogrammer.com"
+                target="_blank"
+                rel="noreferrer"
+              >
+                JS project with Qazi in Clever Programmer
+              </a>
+              , enhancing my eCom skills by studying the{" "}
               <a
                 className="btn"
                 href="https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce?"
@@ -40,11 +48,10 @@ function AboutMe() {
               </a>
             </p>
             <p className="textHolder">
-              By mastering the web development skills I would like to build
-              frontend landing pages and e-commerce websites in a company. In
-              the last project we used MERN Stack and I am confident to handle
-              backend duties. I am planning to use Shopify to build myself an
-              online store selling STEM gadget as my next challenge.
+              In the latest project we used MERN Stack, and I have experience in
+              using all the tech as mentioned. I would like to build JavaScript
+              project in company. I am planning to build Twitter/Netflix clone
+              and build Shopify store selling STEM gadget as my next challenge.
             </p>
             <p className="textHolder">
               On right side is my wonderful final project team! We have pair
