@@ -21,7 +21,9 @@ function AboutMe() {
                 target="_blank"
                 rel="noreferrer"
               >
-                JS project with Qazi in Clever Programmer
+                <span className="bold">
+                  JS project with Qazi in Clever Programmer
+                </span>
               </a>
               , enhancing my eCom skills by studying the{" "}
               <a
