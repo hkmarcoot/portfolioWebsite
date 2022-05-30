@@ -45,7 +45,7 @@ function AboutMe() {
                 rel="noreferrer"
               >
                 <span className="bold">
-                  Shopify Development in Coding With Jan.
+                  Frontend Shopify Development in Coding With Jan.
                 </span>
               </a>
             </p>
