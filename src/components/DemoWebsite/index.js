@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./styles.module.css";
 import linkworthy from "../../img/Screenshot-link-worthy.png";
 import xpeerience from "../../img/Screenshot-xpeerience.png";
+import newsapp from "../../img/Screenshot-newsapp.png";
 
 function DemoWebsite() {
   return (
@@ -58,6 +59,59 @@ function DemoWebsite() {
                 others to join it.
               </p>
             </div>
+          </div>
+        </div>
+      </div>
+      <div className={`${styles.box} ${styles.topmargin}`}>
+        {/* <div className={styles.demoHeader}>
+          <h2 className={styles.header}>Demo Websites</h2>
+        </div> */}
+        <div className={styles.demoItems}>
+          <div className={styles.demoItemsContainer}>
+            <div className={styles.demoItem}>
+              <a
+                href="https://github.com/PercaysoRecruitment/pe3-soc_cohort_8-hkmarcoot"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  className={styles.newsappPic}
+                  src={newsapp}
+                  alt=""
+                  width="300px"
+                />
+              </a>
+              <h3>Your News App</h3>
+              <p className={styles.textHolder}>
+                A mobile responisve website mainly used for showcasing my CSS
+                styling skills. It uses gnew.io API to search for news, which
+                contains search area, search history, and result section. In
+                addition, it has 14 unit tests.
+              </p>
+            </div>
+            {/* <div className={styles.demoItem}>
+              <a
+                href="https://xpeerience.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  className={styles.xpeeriencePic}
+                  src={xpeerience}
+                  alt=""
+                  width="300px"
+                />
+              </a>
+              <h3>Xpeerience</h3>
+              <p className={styles.textHolder}>
+                Here is our final project! It is used for attending travel event
+                and making new friends. We use npm package including slider and
+                pagination to display the events. It has a login & register
+                system, users can attend events and the information will be
+                saved in MongoDB. Users can also create a new event and let
+                others to join it.
+              </p>
+            </div> */}
           </div>
         </div>
       </div>

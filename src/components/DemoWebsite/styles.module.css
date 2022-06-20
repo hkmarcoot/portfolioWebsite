@@ -1,7 +1,7 @@
 .demoWebsiteSection {
   padding-top: 5px;
   background-color: rgb(255, 255, 255);
-  height: 100vh;
+  height: 190vh;
 }
 
 .box {
@@ -60,4 +60,16 @@
 
 .xpeeriencePic:hover {
   opacity: 0.8;
+}
+
+.newsappPic {
+  border-radius: 25px;
+}
+
+.newsappPic:hover {
+  opacity: 0.8;
+}
+
+.topmargin {
+  margin-top: 70px;
 }
