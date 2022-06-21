@@ -83,7 +83,7 @@ function DemoWebsite() {
               </a>
               <h3>Your News App</h3>
               <p className={styles.textHolder}>
-                A mobile responisve website mainly used for showcasing my CSS
+                A mobile responsive website mainly used for showcasing my CSS
                 styling skills. It uses gnew.io API to search for news, which
                 contains search area, search history, and result section. In
                 addition, it has 14 unit tests.
