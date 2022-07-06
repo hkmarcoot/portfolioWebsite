@@ -22,7 +22,7 @@ function AboutMe() {
                 rel="noreferrer"
               >
                 <span className="bold">
-                  JS project with Qazi in Clever Programmer
+                  JS projects with Qazi in Clever Programmer
                 </span>
               </a>
               , such as Twitter clone, Netflix clone, TikTok clone, and Slack
