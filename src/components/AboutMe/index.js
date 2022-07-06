@@ -25,7 +25,9 @@ function AboutMe() {
                   JS project with Qazi in Clever Programmer
                 </span>
               </a>
-              , enhancing my eCom skills by studying the{" "}
+              , such as Twitter clone, Netflix clone, TikTok clone, and Slack
+              clone.
+              {/* , enhancing my eCom skills by studying the{" "}
               <a
                 className="btn"
                 href="https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce?"
@@ -47,7 +49,7 @@ function AboutMe() {
                 <span className="bold">
                   Frontend Shopify Development in Coding With Jan.
                 </span>
-              </a>
+              </a> */}
             </p>
             <p className="textHolder">
               In the latest project we used MERN Stack, and I have experience in
