@@ -55,7 +55,7 @@ function AboutMe() {
               In the latest project we used MERN Stack, and I have experience in
               using all the tech as mentioned. I would like to build JavaScript
               project in company. I am planning to build Twitter/Netflix clone
-              and build Shopify store selling STEM gadget as my next challenge.
+              and build online store selling STEM gadget as my next challenge.
             </p>
             <p className="textHolder">
               On right side is my wonderful final project team! We have pair
