@@ -42,7 +42,7 @@ function AboutMe() {
             </p>
             <p className="textHolder">
               I love science when I was studying in university, because I like
-              solving puzzles and the surprising from scientific discovery.
+              solving puzzles and the surprise from scientific discovery.
               Problem-solving is a transfersable skill and I like joining coding
               hackathon with problem-solving at the core.
             </p>
