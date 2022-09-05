@@ -11,7 +11,7 @@ function AboutMe() {
       <div className="about-me-items">
         <div className="about-me-items-container">
           <div className="left-item">
-            <h3>Aiming to be Web Developer</h3>
+            <h3>Aiming to be JavaScript Developer</h3>
             <p className="textHolder">
               Hi everyone! My name is Marco and I am aiming to be a Full Stack /
               Backend Developer. Right now I am building Twitter clone as my
