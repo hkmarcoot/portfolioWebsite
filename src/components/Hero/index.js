@@ -10,8 +10,10 @@ function Hero() {
           <img className="profilephoto" src={profilePic} alt="" width="150px" />
         </div>
         <div className="hero-overlay">
-          <h1 className="hero-h1">I am a Full Stack Developer Graduate</h1>
-          <h2 className="hero-h2">From The School Of Code Bootcamp</h2>
+          <h1 className="hero-h1">I am a Full Stack Developer</h1>
+          <h2 className="hero-h2">
+            Graduated From The School Of Code Bootcamp
+          </h2>
         </div>
         <div className="hero-button">
           <button
