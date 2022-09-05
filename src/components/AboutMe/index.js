@@ -14,19 +14,8 @@ function AboutMe() {
             <h3>Aiming to be Web Developer</h3>
             <p className="textHolder">
               Hi everyone! My name is Marco and I am aiming to be a Full Stack /
-              Frontend Web Developer. Right now I am building{" "}
-              <a
-                className="btn"
-                href="https://www.cleverprogrammer.com"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <span className="bold">
-                  JS projects with Qazi in Clever Programmer
-                </span>
-              </a>
-              , such as Twitter clone, Netflix clone, TikTok clone, and Slack
-              clone.
+              Backend Developer. Right now I am building Twitter clone as my
+              next challenge.
               {/* , enhancing my eCom skills by studying the{" "}
               <a
                 className="btn"
@@ -52,11 +41,10 @@ function AboutMe() {
               </a> */}
             </p>
             <p className="textHolder">
-              In the latest project we used MERN Stack, and I have experience in
-              using all the tech as mentioned. I would like to build JavaScript
-              project in company. I am planning to build Twitter/Netflix clone
-              ,and build online store selling STEM gadget, which allows me to
-              learn business & marketing in tech, as my next challenge.
+              I love science when I was studying in university, because I like
+              solving puzzles and the surprising from scientific discovery.
+              Problem-solving is a transfersable skill and I like joining coding
+              hackathon with problem-solving at the core.
             </p>
             <p className="textHolder">
               On right side is my wonderful final project team! We have pair
@@ -75,8 +63,12 @@ function AboutMe() {
             <p>
               <p className="skill-set-title">My Coding Skill Set</p>
               <p>Frontend Skills: JavaScript, HTML, CSS, React</p>
-              <p>Backend Skills: Node, Express, MongoDB, PostgreSQL</p>Testing
-              Skills: JEST <p>Design Tools: Figma, Photoshop, Illustrator </p>
+              <p>
+                Backend Skills: Node, Express, MongoDB, PostgreSQL, Couchbase
+                NoSQL
+              </p>
+              Testing Skills: JEST{" "}
+              <p>Design Tools: Figma, Photoshop, Illustrator </p>
               <p>Other Skills: Unity, MIT Scratch, App Inventor</p>
             </p>
           </div>
