@@ -14,7 +14,7 @@ function AboutMe() {
             <h3>Full Stack JavaScript Developer</h3>
             <p className="textHolder">
               Hi everyone! My name is Marco and I look forward to building
-              JavaScript projects in company. Right now I am building Twitter
+              JavaScript project in company. Right now I am building Twitter
               clone as my next challenge.
               {/* , enhancing my eCom skills by studying the{" "}
               <a
