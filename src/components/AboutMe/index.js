@@ -11,11 +11,11 @@ function AboutMe() {
       <div className="about-me-items">
         <div className="about-me-items-container">
           <div className="left-item">
-            <h3>Aiming to be JavaScript Developer</h3>
+            <h3>Full Stack JavaScript Developer</h3>
             <p className="textHolder">
-              Hi everyone! My name is Marco and I am aiming to be a Full Stack /
-              Backend Developer. Right now I am building Twitter clone as my
-              next challenge.
+              Hi everyone! My name is Marco and I look forward to building
+              JavaScript projects in company. Right now I am building Twitter
+              clone as my next challenge.
               {/* , enhancing my eCom skills by studying the{" "}
               <a
                 className="btn"
@@ -44,7 +44,11 @@ function AboutMe() {
               I love science when I was studying in university, because I like
               solving puzzles and the surprise from scientific discovery.
               Problem-solving is a transfersable skill and I like joining coding
-              hackathon with problem-solving at the core.
+              hackathon with problem-solving at the core. Perviously, I won
+              third place in App Inventor Competition in Adult Track by building
+              COVID-19 Tracker App and had experience in joining NASA
+              International Space Apps Challenge by building astronaut
+              activities weekly schedule in React.
             </p>
             <p className="textHolder">
               On right side is my wonderful final project team! We have pair
