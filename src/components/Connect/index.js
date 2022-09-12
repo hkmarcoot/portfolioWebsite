@@ -46,7 +46,7 @@ function Connect() {
           <div className={styles.connectItem}>
             <a
               className="btn"
-              href="https://github.com/hkmarcoot/100-days-of-code"
+              href="https://github.com/hkmarcoot/100-days-of-code-2nd"
               target="_blank"
               rel="noreferrer"
             >
@@ -56,7 +56,7 @@ function Connect() {
               ></i>
 
               <div className={styles.describe}>
-                GitHub for 1st #100DaysOfCode coding progress.
+                GitHub for 2nd #100DaysOfCode coding progress.
               </div>
             </a>
           </div>
