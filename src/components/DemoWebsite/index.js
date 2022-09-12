@@ -107,8 +107,8 @@ function DemoWebsite() {
               <p className={styles.textHolder}>
                 A Clone Project that uses Twitter API v1.1 in the endpoint.
                 Users can search for tweets and view them. Axios is used in
-                connecting the Twitter API and momentjs is used in tweets
-                posting time.
+                connecting the Twitter API and momentjs is used to show created
+                date of tweet.
               </p>
             </div>
             {/* <div className={styles.demoItem}>
