@@ -3,6 +3,7 @@ import styles from "./styles.module.css";
 import linkworthy from "../../img/Screenshot-link-worthy.png";
 import xpeerience from "../../img/Screenshot-xpeerience.png";
 import newsapp from "../../img/Screenshot-newsapp.png";
+import twitterclone from "../../img/Screenshot-twitterclone.png";
 
 function DemoWebsite() {
   return (
@@ -87,6 +88,27 @@ function DemoWebsite() {
                 styling skills. It uses gnew.io API to search for news, which
                 contains search area, search history, and result section. In
                 addition, it has 14 unit tests.
+              </p>
+            </div>
+            <div className={styles.demoItem}>
+              <a
+                href="https://github.com/hkmarcoot/100-days-of-code-2nd/tree/main/twitterCloneProject-app"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  className={styles.Pic}
+                  src={twitterclone}
+                  alt=""
+                  width="300px"
+                />
+              </a>
+              <h3>Twitter Clone</h3>
+              <p className={styles.textHolder}>
+                A Clone Project that uses Twitter API v1.1 in the endpoint.
+                Users can search for tweets and view them. Axios is used in
+                connecting the Twitter API and momentjs is used in tweets
+                posting time.
               </p>
             </div>
             {/* <div className={styles.demoItem}>

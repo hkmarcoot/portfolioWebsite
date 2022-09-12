@@ -70,6 +70,14 @@
   opacity: 0.8;
 }
 
+.Pic {
+  border-radius: 25px;
+}
+
+.Pic:hover {
+  opacity: 0.8;
+}
+
 .topmargin {
   margin-top: 70px;
 }
